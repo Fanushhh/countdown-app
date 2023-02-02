@@ -105,6 +105,7 @@ img{
   font-size:3rem;
 }
 
+
 .time-container div span{
   font-size: 0.9rem;
   
@@ -129,6 +130,33 @@ img{
   opacity: 0;;
 }
 
+@media screen and (max-width:1000px) {
+  .time-container{
+    gap:3rem;
+  }
+  
+}
 
-
+@media screen and (max-width: 600px) {
+  main{
+    padding: 0 1rem;
+  }
+  
+  .time-container{
+    gap:1rem;
+  }
+  .time-container div{
+    font-size: 1.3rem;
+    width: 90%;
+    flex-direction: column;
+  }
+  .header h1{
+    
+      font-size: 2.5rem;
+    
+  }
+  .header p{
+    font-size: 0.7rem;
+  }
+}
 
