@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/countdown-app/static/css/main.41560c41.css",
+    "main.css": "/countdown-app/static/css/main.ab2394fd.css",
     "main.js": "/countdown-app/static/js/main.f286a651.js",
     "static/media/billy-williams-8wz1Q4Q_XAg-unsplash.jpg": "/countdown-app/static/media/billy-williams-8wz1Q4Q_XAg-unsplash.32c67943f0e22e812065.jpg",
     "index.html": "/countdown-app/index.html",
-    "main.41560c41.css.map": "/countdown-app/static/css/main.41560c41.css.map",
+    "main.ab2394fd.css.map": "/countdown-app/static/css/main.ab2394fd.css.map",
     "main.f286a651.js.map": "/countdown-app/static/js/main.f286a651.js.map"
   },
   "entrypoints": [
-    "static/css/main.41560c41.css",
+    "static/css/main.ab2394fd.css",
     "static/js/main.f286a651.js"
   ]
 }
