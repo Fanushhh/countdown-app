@@ -148,6 +148,7 @@ img{
   }
   
   .time-container{
+    margin-top: 2rem;
     gap:1rem;
     padding:2rem;
   }
