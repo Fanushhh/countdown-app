@@ -95,7 +95,11 @@ img{
 .time-container{
   display: flex;
   gap:10rem;
-  margin-top: 2rem;
+  padding: 2rem 4rem;
+  border-bottom: 3px solid #00434C;
+  border-left: 1px solid #00434C;
+  border-right: 1px solid #00434C;
+  border-radius: 20px;
 }
 
 .time-container div{
@@ -145,6 +149,7 @@ img{
   
   .time-container{
     gap:1rem;
+    padding:2rem;
   }
   .time-container div{
     font-size: 1.3rem;
